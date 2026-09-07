@@ -1,5 +1,5 @@
 # Advice-Tech AIOps Support Triage Engine
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Azfr2iDL2-oE7HcK3FEA3HKSQLq86y3?usp=sharing)
 An operational AIOps workflow and interactive web dashboard built to automate tier-1/tier-2 ticket classification, extract technical bug summaries for engineering teams, and generate context-aware, white-glove drafted responses for financial advisers.
 
 ![Dashboard Preview]<img width="1238" height="562" alt="Demo" src="https://github.com/user-attachments/assets/317b1ccf-408a-40c9-9b6d-18b29dde7a7e" />
