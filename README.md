@@ -2,7 +2,8 @@
 
 An operational AIOps workflow and interactive web dashboard built to automate tier-1/tier-2 ticket classification, extract technical bug summaries for engineering teams, and generate context-aware, white-glove drafted responses for financial advisers.
 
-![Dashboard Preview](demo.png)
+![Dashboard Preview]<img width="1238" height="562" alt="Demo" src="https://github.com/user-attachments/assets/317b1ccf-408a-40c9-9b6d-18b29dde7a7e" />
+
 
 ## Overview
 
